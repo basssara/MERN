@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "baylord mern",
+  "mongoUri": "mongodb+srv://Baylord:skyline998@cluster0.3oljg.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
